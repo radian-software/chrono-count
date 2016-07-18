@@ -1,11 +1,3 @@
-//
-//  CountupsViewController.m
-//  Countdowns
-//
-//  Created by raxod502 on 7/3/13.
-//  Copyright (c) 2013 Raxod502. All rights reserved.
-//
-
 #import "CountupsViewController.h"
 
 #import "CountupDetailViewController.h"

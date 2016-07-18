@@ -1,11 +1,3 @@
-//
-//  RightToLeftSegue.m
-//  Hangman
-//
-//  Created by raxod502 on 4/28/13.
-//  Copyright (c) 2013 Raxod502. All rights reserved.
-//
-
 #import "RightToLeftSegue.h"
 
 @implementation RightToLeftSegue

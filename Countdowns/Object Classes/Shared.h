@@ -1,11 +1,3 @@
-//
-//  Singleton.h
-//  DateTest
-//
-//  Created by raxod502 on 4/21/14.
-//  Copyright (c) 2014 Raxod502. All rights reserved.
-//
-
 @interface Shared : NSObject <NSCoding> {
     NSMutableArray *countdowns;
     NSMutableArray *countups;

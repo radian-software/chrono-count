@@ -1,11 +1,3 @@
-//
-//  IntegerDictionary.m
-//  Countdowns
-//
-//  Created by raxod502 on 6/8/13.
-//  Copyright (c) 2013 Raxod502. All rights reserved.
-//
-
 #import "IntegerDictionary.h"
 
 @implementation IntegerDictionary

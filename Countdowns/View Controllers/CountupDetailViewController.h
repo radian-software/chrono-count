@@ -1,11 +1,3 @@
-//
-//  CountupDetailViewController.h
-//  Countdowns
-//
-//  Created by raxod502 on 7/4/13.
-//  Copyright (c) 2013 Raxod502. All rights reserved.
-//
-
 #import "iToast.h"
 
 @class CountdownDetailViewController;

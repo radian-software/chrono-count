@@ -1,11 +1,3 @@
-//
-//  AppDelegate.m
-//  Countdowns
-//
-//  Created by raxod502 on 6/2/13.
-//  Copyright (c) 2013 Raxod502. All rights reserved.
-//
-
 #import "AppDelegate.h"
 
 #import "CountupDetailViewController.h"

@@ -1,11 +1,3 @@
-//
-//  SettingsViewController.h
-//  Countdowns
-//
-//  Created by raxod502 on 7/31/13.
-//  Copyright (c) 2013 Raxod502. All rights reserved.
-//
-
 #import <MessageUI/MessageUI.h>
 #import <sys/utsname.h>
 

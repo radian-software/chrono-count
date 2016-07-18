@@ -1,11 +1,3 @@
-//
-//  Qualifier.m
-//  Countdowns
-//
-//  Created by raxod502 on 6/9/13.
-//  Copyright (c) 2013 Raxod502. All rights reserved.
-//
-
 #import "Qualifier.h"
 
 @implementation Qualifier

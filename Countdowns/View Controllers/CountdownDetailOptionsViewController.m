@@ -1,11 +1,3 @@
-//
-//  CountdownDetailOptionsViewController.m
-//  Countdowns
-//
-//  Created by raxod502 on 7/6/13.
-//  Copyright (c) 2013 Raxod502. All rights reserved.
-//
-
 #import "CountdownDetailOptionsViewController.h"
 
 #import "CountdownDetailViewController.h"

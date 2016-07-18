@@ -1,11 +1,3 @@
-//
-//  SettingsNewConstraintSubviewViewController.h
-//  Countdowns
-//
-//  Created by raxod502 on 6/7/13.
-//  Copyright (c) 2013 Raxod502. All rights reserved.
-//
-
 @class SettingsViewController;
 @class SettingsNewConstraintViewController;
 

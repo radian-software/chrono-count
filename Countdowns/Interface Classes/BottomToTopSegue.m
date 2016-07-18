@@ -1,11 +1,3 @@
-//
-//  BottomToTopSegue.m
-//  Hangman
-//
-//  Created by Radon Rosborough on 5/3/13.
-//  Copyright (c) 2013 Raxod502. All rights reserved.
-//
-
 #import "BottomToTopSegue.h"
 
 @implementation BottomToTopSegue

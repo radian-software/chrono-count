@@ -1,11 +1,3 @@
-//
-//  SettingsNewConstraintViewController.h
-//  Countdowns
-//
-//  Created by raxod502 on 6/4/13.
-//  Copyright (c) 2013 Raxod502. All rights reserved.
-//
-
 #define END -51
 #define SUICIDE 0/0
 
