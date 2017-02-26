@@ -1,4 +1,7 @@
-Check out the video [here](https://youtu.be/rLe4SVMD9gw).
+Check out the video [here](https://youtu.be/rLe4SVMD9gw). See the
+[PDF] for more information about the app.
+
+[pdf]: https://github.com/raxod502/chrono-count/blob/master/ChronoCountDetails.pdf
 
 # Chrono Count
 
